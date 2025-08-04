@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋I'm a Computer Science student with a passion for learning and building cool things with code.  
+ Currently learning full-stack web development and data structures.  
+Always exploring new tech like AI, cloud, and system design.
 
 <!--
 **samikshya185/samikshya185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
